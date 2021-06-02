@@ -1,0 +1,8 @@
+{
+    "vetur.format.options.tabSize": 4,
+    "[yaml]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+        "editor.autoIndent": "advanced"
+    }
+}
